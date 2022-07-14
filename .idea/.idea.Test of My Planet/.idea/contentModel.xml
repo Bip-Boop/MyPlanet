@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/Scripts" t="Include">
+        <e p="Alerts.cs" t="Include" />
+        <e p="AllManager.cs" t="Include" />
+        <e p="CloserScript.cs" t="Include" />
+        <e p="CoroutineManager.cs" t="Include" />
+        <e p="DataContainer.cs" t="Include" />
+        <e p="FlyingObjectBehaviour.cs" t="Include" />
+        <e p="FlyingObjectsSpawner.cs" t="Include" />
+        <e p="GameManager.cs" t="Include" />
+        <e p="House.cs" t="Include" />
+        <e p="HouseOnMoon.cs" t="Include" />
+        <e p="LifeCapsuleOnMoon.cs" t="Include" />
+        <e p="MeteoriteOnMoon.cs" t="Include" />
+        <e p="PauseScript.cs" t="Include" />
+        <e p="PlanetControl.cs" t="Include" />
+        <e p="PlanetManager.cs" t="Include" />
+        <e p="PlayerDataContainer.cs" t="Include" />
+        <e p="SpawnFlyingObjectsOnMoon.cs" t="Include" />
+        <e p="SpawnHouses.cs" t="Include" />
+        <e p="SpawnHousesOnMoon.cs" t="Include" />
+        <e p="WaveContent.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Test of My Planet.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Test of My Planet.-1425867597.00" t="ExcludeRecursive" />
+  </component>
+</project>
